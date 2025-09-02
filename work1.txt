@@ -1,1 +1,3 @@
 "life is beauty" 
+day1
+day2
